@@ -1,0 +1,45 @@
+/***** 
+* @author: Nilay Chandra Barman (https://github.com/Nilaycb)
+* Copyright (c) 2020, All rights reserved.
+* Copyrights licensed under the MIT License.
+*******/
+
+
+
+
+.active {
+    text-decoration: underline;
+}
+
+.card-button-X {
+    position: absolute;
+    margin: 1rem 0;
+    bottom: -2rem;
+    text-align: center;
+    align-self: center;
+}
+
+.carousel-wrapper {
+    max-width: 990px;
+}
+
+.down-mark {
+    background-color: #e9ecef;
+    height: 1rem;
+    width: 1rem;
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: -0.45rem;
+    left: 10rem;
+}
+
+.down-mark-relative {
+    position: relative;
+    display: block;
+}
+
+.footer-text {
+    font-size: 0.9rem;
+    color: #535151;
+}
