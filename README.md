@@ -53,3 +53,29 @@ This repository contains works done by me during my Web Engineering course. <br/
     <td align="center">Free v5.13.1</td>
   </tr>
 </table></div>
+
+## Lab-Task-1
+<div><table>
+  <tr>
+    <td colspan="3" align="center">Demonstrating Basic CRUD Operations</th>
+  </tr>
+  <tr>
+    <td>Source Codes</td>
+    <td>https://github.com/Nilaycb/Web-Engineering/tree/master/Lab-Task-1</td>
+    <td align="center">CREATE, READ operations are implemented as of now.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Tested Using</td>
+    <td align="center">PHP</td>
+    <td align="center">v7.4.8</td>
+  </tr>
+  <tr>
+    <td align="center">MariaDB</td>
+    <td align="center">v10.4.13</td>
+  </tr>
+  <tr>
+    <td>README</td>
+    <td>https://github.com/Nilaycb/Web-Engineering/blob/master/Lab-Task-1/README.md</td>
+    <td></td>
+  </tr>
+</table></div>
