@@ -88,6 +88,6 @@ This repository contains works done by me during my Web Engineering course. <br/
   <tr>
     <td>Source Codes</td>
     <td>https://github.com/Nilaycb/Web-Engineering/tree/master/Project</td>
-    <td align="center">htdocs</td>
+    <td align="center">htdocs, Project SRS, Report, Presentation</td>
   </tr>
 </table></div>
