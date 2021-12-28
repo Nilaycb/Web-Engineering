@@ -1,8 +1,10 @@
 # Web Engineering
+
 This repository contains works done by me during my Web Engineering course. <br/>
-*This repository is temporary and codes will be shifted to suitable repositories in the upcoming days*.
+_This repository is temporary and codes will be shifted to suitable repositories in the upcoming days_.
 
 ## Assignment 1
+
 <div><table>
   <tr>
     <td colspan="3" align="center">Designing a simple web page</th>
@@ -30,6 +32,7 @@ This repository contains works done by me during my Web Engineering course. <br/
 </table></div>
 
 ## Additional Task 1
+
 <div><table>
   <tr>
     <td colspan="3" align="center">Designing a web page similar to a given one</th>
@@ -55,6 +58,7 @@ This repository contains works done by me during my Web Engineering course. <br/
 </table></div>
 
 ## Lab-Task-1
+
 <div><table>
   <tr>
     <td colspan="3" align="center">Demonstrating Basic CRUD Operations</th>
@@ -79,18 +83,3 @@ This repository contains works done by me during my Web Engineering course. <br/
     <td></td>
   </tr>
 </table></div>
-
-## Project
-<div><table>
-  <tr>
-    <td colspan="3" align="center">School Online Presence</th>
-  </tr>
-  <tr>
-    <td>Source Codes</td>
-    <td>https://github.com/Nilaycb/Web-Engineering/tree/master/Project</td>
-    <td align="center">htdocs, Project SRS, Report, Presentation</td>
-  </tr>
-</table></div>
-
-## Theory Assignment
-https://github.com/Nilaycb/Web-Engineering/tree/master/Theory-Assignment
